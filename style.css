@@ -27,7 +27,16 @@ nav{
     margin: auto;
     justify-content: space-between;
   display: flex;
-  justify-content: center;
   align-items: center;
   height: 62px;
+}
+nav img{
+    color: red;
+    height: 114px;
+    position: relative;
+    z-index: 10;
+}
+
+nav button{
+    
 }
